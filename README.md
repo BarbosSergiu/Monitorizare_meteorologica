@@ -1,1 +1,0 @@
-# Monitorizare_meteorologica
