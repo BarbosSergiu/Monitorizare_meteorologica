@@ -7,4 +7,4 @@ the log.txt file.
 
 This app uses the openweather api.
 
-This is app is property of MTA
+This app is property of MTA
